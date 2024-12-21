@@ -1,0 +1,12 @@
+/home/yang/桌面/Code/asyncos/target/riscv64gc-unknown-none-elf/debug/deps/libspin-4d12fe573e93a37a.rmeta: /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/lib.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/barrier.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/lazy.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/mutex.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/mutex/spin.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/once.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/relax.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/rwlock.rs
+
+/home/yang/桌面/Code/asyncos/target/riscv64gc-unknown-none-elf/debug/deps/spin-4d12fe573e93a37a.d: /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/lib.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/barrier.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/lazy.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/mutex.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/mutex/spin.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/once.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/relax.rs /home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/rwlock.rs
+
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/lib.rs:
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/barrier.rs:
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/lazy.rs:
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/mutex.rs:
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/mutex/spin.rs:
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/once.rs:
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/relax.rs:
+/home/yang/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/spin-0.9.8/src/rwlock.rs:
